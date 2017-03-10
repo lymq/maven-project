@@ -1,5 +1,5 @@
 /**
-* Greeter stuff
+* Greeter stuff info.
 * @since 1.0
 * @author my
 * @version 1.0
