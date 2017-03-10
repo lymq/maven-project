@@ -1,3 +1,6 @@
+/**
+* This is a greeter class
+*/
 package com.example;
 
 /**
@@ -12,8 +15,11 @@ public class Greeter {
 
   }
 
-  //TODO: Add javadoc comment
-  public String greet(String someone) {
+  /*
+  * @param someone the name
+  * @return the greeting
+  */
+  public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
 }
